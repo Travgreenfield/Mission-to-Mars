@@ -15,3 +15,4 @@ Challenge-related files:
 - index.html
 
 ## Portfolio
+![08/09 Updated Portfolio](https://github.com/travgreenfield/Mission-to-Mars/blob/master/Portfolio%20Screenshot.png?raw=true)
